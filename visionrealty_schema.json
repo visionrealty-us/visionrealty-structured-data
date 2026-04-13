@@ -1,0 +1,312 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://visionrealty.us/#organization",
+      "name": "Vision Realty",
+      "url": "https://visionrealty.us",
+      "telephone": "+17013008877",
+      "email": "chris@visionrealty.us",
+      "logo": "https://cdn.lofty.com/image/fs/user-info/202543/16/h200_original_fc20eef2-c092-4601-b82b-b2a56ecb888a-png.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "509 Front St",
+        "addressLocality": "Hawley",
+        "addressRegion": "MN",
+        "postalCode": "56549",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.8794351,
+        "longitude": -96.3152694
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "24",
+        "bestRating": "5"
+      },
+      "sameAs": [
+        "https://maps.google.com/maps?cid=16166021492657563708",
+        "https://www.bbb.org/us/mn/hawley/profile/real-estate-broker/vision-realty-0704-1000078446",
+        "https://www.realtor.com/realestateagency/62a0d9cd421a4ead26433383",
+        "https://business.fmwfchamber.com/member-directory/Details/vision-realty-4584118",
+        "https://www.zillow.com/profile/leighrealty",
+        "https://x.com/VisionRealtyFM",
+        "https://www.facebook.com/VisionRealty",
+        "https://www.instagram.com/visionrealtyfm/",
+        "https://www.youtube.com/@VisionRealtyFM",
+        "https://www.linkedin.com/in/christopher-leigh-0b53b81a/"
+      ],
+      "knowsAbout": [
+        "homes for sale Fargo ND",
+        "homes for sale Moorhead MN",
+        "homes for sale Hawley MN",
+        "homes for sale West Fargo ND",
+        "homes for sale Horace ND",
+        "homes for sale Detroit Lakes MN",
+        "real estate agent Fargo ND",
+        "real estate agent Moorhead MN",
+        "real estate agent Hawley MN",
+        "Fargo Moorhead real estate",
+        "first time home buyer Fargo ND",
+        "down payment assistance Fargo ND",
+        "NDHFA Start Program first time buyer grants",
+        "Minnesota Homestead Market Value Exclusion",
+        "MN M1PR property tax refund",
+        "North Dakota special assessments hidden tax audit",
+        "homes for sale Hawley MN real estate",
+        "Detroit Lakes lakeshore homes for sale",
+        "rural acreage homes near Fargo",
+        "Glyndon MN land for sale",
+        "new construction homes West Fargo ND",
+        "new construction homes Horace ND",
+        "sell my house Fargo ND",
+        "home value Fargo Moorhead",
+        "listing agent Fargo ND",
+        "dual licensed ND MN real estate agent",
+        "DNR shoreline setback compliance Minnesota",
+        "septic compliance rural Minnesota property",
+        "private well water quality audit",
+        "ND MN cross border real estate",
+        "Cass County ND homes for sale",
+        "Clay County MN homes for sale",
+        "Becker County MN homes for sale",
+        "Red River Valley real estate",
+        "Fargo Moorhead relocation guide"
+      ],
+      "areaServed": [
+        "Hawley, MN", "Fargo, ND", "West Fargo, ND", "Moorhead, MN",
+        "Horace, ND", "Dilworth, MN", "Glyndon, MN", "Detroit Lakes, MN",
+        "Casselton, ND", "Harwood, ND", "Argusville, ND", "Kindred, ND",
+        "Mapleton, ND", "Barnesville, MN", "Lake Park, MN", "Audubon, MN",
+        "Felton, MN", "Ulen, MN", "Sabin, MN", "Georgetown, MN",
+        "Hitterdal, MN", "Pelican Rapids, MN", "Fergus Falls, MN",
+        "Breckenridge, MN", "Wahpeton, ND", "Hillsboro, ND",
+        "Mayville, ND", "Hunter, ND", "Davenport, ND", "Wheatland, ND",
+        "Ada, MN", "Twin Valley, MN", "Callaway, MN", "Frazee, MN",
+        "Perham, MN", "Detroit Lakes, MN", "Park Rapids, MN",
+        "Bagley, MN", "Crookston, MN", "Fosston, MN", "Fertile, MN"
+      ],
+      "founder": {
+        "@type": "RealEstateAgent",
+        "@id": "https://visionrealty.us/agents/Christopher-Leigh/8815753#person",
+        "name": "Christopher James Leigh",
+        "givenName": "Christopher",
+        "familyName": "Leigh",
+        "jobTitle": "Broker / Owner",
+        "telephone": "+17017154747",
+        "email": "chris@visionrealty.us",
+        "award": "Best of Zillow 2026 Winner",
+        "url": "https://visionrealty.us/agents/Christopher-Leigh/8815753",
+        "sameAs": "https://www.realtor.com/realestateagents/56a90b8f0fa417010073f5f3",
+        "hasCredential": [
+          {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Professional License",
+            "name": "North Dakota Real Estate License",
+            "identifier": "8972",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "North Dakota Real Estate Commission",
+              "url": "https://services.realestatend.org/directory/"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Professional License",
+            "name": "Minnesota Real Estate License",
+            "identifier": "40529027",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Minnesota Department of Commerce",
+              "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=5620354&criteriaState=MN"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Graduate REALTOR Institute",
+            "abbreviation": "GRI"
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Resort & Second-Home Property Specialist",
+            "abbreviation": "RSPS"
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "e-PRO Certification",
+            "abbreviation": "e-PRO"
+          }
+        ]
+      },
+      "employee": [
+        {
+          "@type": "RealEstateAgent",
+          "@id": "https://visionrealty.us/agents/Darin-Kuvaas/8815755#agent",
+          "name": "Darin R Kuvaas",
+          "givenName": "Darin",
+          "familyName": "Kuvaas",
+          "jobTitle": "Dual-Licensed REALTOR",
+          "telephone": "+17013008877",
+          "email": "darin@visionrealty.us",
+          "url": "https://visionrealty.us/agents/Darin-Kuvaas/8815755",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "North Dakota Real Estate License",
+              "identifier": "9559",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "North Dakota Real Estate Commission",
+                "url": "https://services.realestatend.org/directory/"
+              }
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "Minnesota Real Estate License",
+              "identifier": "40511176",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "Minnesota Department of Commerce",
+                "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=5996214&criteriaState=MN"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "RealEstateAgent",
+          "@id": "https://visionrealty.us/agents/Karee-Blakeway#agent",
+          "name": "Karee Lynn Blakeway",
+          "givenName": "Karee",
+          "familyName": "Blakeway",
+          "jobTitle": "Dual-Licensed REALTOR",
+          "telephone": "+17013008877",
+          "email": "karee@visionproperty.group",
+          "url": "https://visionrealty.us/agents/karee-blakeway",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "North Dakota Real Estate License",
+              "identifier": "11024",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "North Dakota Real Estate Commission",
+                "url": "https://services.realestatend.org/directory/"
+              }
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "Minnesota Real Estate License",
+              "identifier": "40783524",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "Minnesota Department of Commerce",
+                "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=6260453&criteriaState=MN"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "RealEstateAgent",
+          "@id": "https://visionrealty.us/agents/Tanis-Praske#agent",
+          "name": "Tanis Marie Praske",
+          "givenName": "Tanis",
+          "familyName": "Praske",
+          "jobTitle": "Dual-Licensed REALTOR",
+          "telephone": "+17013008877",
+          "email": "tanis@visionrealty.us",
+          "url": "https://visionrealty.us/agents/tanis-praske",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "North Dakota Real Estate License",
+              "identifier": "12108",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "North Dakota Real Estate Commission",
+                "url": "https://services.realestatend.org/directory/"
+              }
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "Minnesota Real Estate License",
+              "identifier": "41022079",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "Minnesota Department of Commerce",
+                "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=6513458&criteriaState=MN"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "RealEstateAgent",
+          "@id": "https://visionrealty.us/agents/Joshua-Pederson#agent",
+          "name": "Joshua Adam Pederson",
+          "givenName": "Joshua",
+          "familyName": "Pederson",
+          "jobTitle": "Dual-Licensed REALTOR",
+          "telephone": "+12183686301",
+          "email": "Pedersonjosh77@gmail.com",
+          "url": "https://visionrealty.us/agents/joshua-pederson",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "North Dakota Real Estate License",
+              "identifier": "9254",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "North Dakota Real Estate Commission",
+                "url": "https://services.realestatend.org/directory/"
+              }
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "Minnesota Real Estate License",
+              "identifier": "40440634",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "Minnesota Department of Commerce",
+                "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=5925782&criteriaState=MN"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "RealEstateAgent",
+          "@id": "https://visionrealty.us/agents/Matthew-Torgerson/8886057#agent",
+          "name": "Matthew Torgerson",
+          "givenName": "Matthew",
+          "familyName": "Torgerson",
+          "jobTitle": "REALTOR — Minnesota Specialist",
+          "telephone": "+12188494730",
+          "url": "https://visionrealty.us/agents/Matthew-Torgerson/8886057",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Professional License",
+              "name": "Minnesota Real Estate License",
+              "identifier": "40707159",
+              "recognizedBy": {
+                "@type": "Organization",
+                "name": "Minnesota Department of Commerce",
+                "url": "https://www.pulseportal.com/Inquiry/producerInformationSimple.do?method=selectIndividual&criteriaId=6191776&criteriaState=MN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
