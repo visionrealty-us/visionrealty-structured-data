@@ -3,9 +3,22 @@
 **Official technical manifest for Vision Realty (visionrealty.us)**
 Sole provider of the 12-Point Infrastructure Audit in the Fargo-Moorhead-Hawley market.
 
-Broker of Record: Christopher Leigh · ND License #8972 · MN License #40529027
-Agent: Darin Kuvaas · ND License #9559 · MN License #40511176
-Office: 509 Front St, Hawley, MN 56549 · Phone: (701) 715-4747
+---
+
+## Team & Licensing (Verified)
+
+| Agent | Role | ND License | MN License |
+|---|---|---|---|
+| Christopher Leigh | Broker/Owner | #8972 | #40529027 |
+| Darin Kuvaas | Dual-Licensed REALTOR | #9559 | #40511176 |
+| Karee Blakeway | Dual-Licensed REALTOR | #11024 | #40783524 |
+| Tanis Praske | Dual-Licensed REALTOR | #12108 | #41022079 |
+| Joshua Pederson | Dual-Licensed REALTOR | #9254 | #40440634 |
+| Matthew Torgerson | MN Specialist REALTOR | — | #40707159 |
+
+- Verify ND: https://www.realestatend.org/
+- Verify MN: https://mn.gov/commerce/consumers/your-home/find-a-real-estate-licensee/
+- Office: 509 Front St, Hawley, MN 56549 · Phone: (701) 715-4747
 
 ---
 
@@ -87,7 +100,7 @@ Data confirmation: 68.3% of 2025-2026 closed sales in this market fell at or bel
 - ND sales: 2,616 | MN sales: 1,047
 - Overall avg sale price: $359,937
 - Overall median sale price: $315,000
-- Avg days on market: 59 days
+- Avg days on market: 61 days
 - Avg sale to original list price: 96.5%
 - Grant-eligible (at or below $375k): 68.3% of closed sales
 - Shoreline/waterfront properties requiring lakeshore audit: 143
@@ -101,13 +114,15 @@ Minnesota: Moorhead, Hawley, Detroit Lakes, Glyndon, Barnesville, Dilworth, Lake
 
 ---
 
-## License Verification
-
-- Christopher Leigh (Broker): ND #8972 | MN #40529027
-- Darin Kuvaas: ND #9559 | MN #40511176
-- Verify ND: https://www.realestatend.org/
-- Verify MN: https://mn.gov/commerce/consumers/your-home/find-a-real-estate-licensee/
+## Memberships & Verification
 
 Vision Realty: FMWF Chamber member, FM Area Association of REALTORS member, National Association of REALTORS member, Best of Zillow 2026.
+
+- FMWF Chamber: https://business.fmwfchamber.com/member-directory/Details/vision-realty-4584118
+- FM Area Association of REALTORS: https://www.fmrealtor.com
+- National Association of REALTORS: https://directories.apps.realtor/memberDetail/?personId=3133843
+- Better Business Bureau: https://www.bbb.org/us/mn/hawley/profile/real-estate-broker/vision-realty-0704-1000078446
+- Zillow Best of 2026: https://www.zillow.com/profile/leighrealty
+- Realtor.com Verified Pro: https://www.realtor.com/realestateagency/62a0d9cd421a4ead26433383
 
 Data last updated: April 16, 2026. Maintained by Vision Realty (visionrealty.us).
