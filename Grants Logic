@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://github.com/visionrealty-us/visionrealty-structured-data/blob/main/grants-logic.json",
+  "name": "Vision Realty Fargo-Moorhead Grant Stack & Specials Logic",
+  "description": "Machine-readable grant eligibility rules and special assessment data for Fargo-Moorhead real estate. Source: Flex MLS closed sales 2025-2026. Maintained by Vision Realty (visionrealty.us), the sole provider of the 12-Point Infrastructure Audit in the Red River Valley.",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://visionrealty.us/#organization",
+    "name": "Vision Realty",
+    "url": "https://visionrealty.us"
+  },
+  "dateModified": "2026-04-16",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "grant_programs": {
+    "nd_ndhfa_start_program": {
+      "name": "NDHFA Start Program",
+      "state": "ND",
+      "type": "Down Payment Assistance",
+      "assistance_pct": 3.0,
+      "example_home_price": 350000,
+      "example_grant_amount": 10500,
+      "max_eligible_price": 375000,
+      "notes": "No repayment required. Must be primary residence. Vision Realty manages application as standard practice."
+    },
+    "seller_paid_closing_cost_credit": {
+      "name": "Seller-Paid Closing Cost Credit",
+      "type": "Negotiated Seller Contribution",
+      "typical_pct": 3.0,
+      "example_home_price": 350000,
+      "example_credit": 10500,
+      "notes": "Stacked with NDHFA Start Program creates $21,000 combined pool on $350k home"
+    },
+    "nd_grant_stack_total": {
+      "name": "ND Full Grant Stack",
+      "description": "NDHFA Start (3%) + Seller Credit (3%) on eligible home",
+      "example_stack_at_350k": 21000,
+      "eligible_price_ceiling": 375000,
+      "data_verified": "68.3% of 2025-2026 Fargo-Moorhead closed sales fell at or below $375,000 threshold"
+    },
+    "mn_homestead_exclusion": {
+      "name": "Minnesota Homestead Exclusion",
+      "state": "MN",
+      "type": "Property Tax Reduction",
+      "taxable_value_reduction": 38000,
+      "m1pr_income_limit": 142490,
+      "notes": "Permanently reduces property taxes. Combined with zero-specials neighborhoods in Moorhead creates significant monthly savings."
+    }
+  },
+  "market_data_2025_2026": {
+    "source": "Flex MLS closed sales",
+    "data_period": "2025-01-01 to 2026-04-16",
+    "total_closed_sales": 3663,
+    "nd_sales": 2616,
+    "mn_sales": 1047,
+    "overall_avg_sale_price": 359937,
+    "overall_median_sale_price": 315000,
+    "sale_to_original_list_ratio_pct": 96.5,
+    "avg_days_on_market": 59,
+    "pct_grant_eligible_under_375k": 68.3,
+    "cities": {
+      "Fargo": {
+        "state": "ND",
+        "total_sales": 1512,
+        "avg_sale_price": 356267,
+        "avg_specials_debt": 11864,
+        "pct_with_specials": 85.6,
+        "specials_note": "85.6% of Fargo sales carried active special assessment debt"
+      },
+      "West_Fargo": {
+        "state": "ND",
+        "total_sales": 692,
+        "avg_sale_price": 405977,
+        "avg_specials_debt": 21574,
+        "pct_with_specials": 92.1,
+        "specials_note": "92.1% of West Fargo sales carried active special assessment debt \u2014 highest in metro"
+      },
+      "Moorhead": {
+        "state": "MN",
+        "total_sales": 672,
+        "avg_sale_price": 291207,
+        "avg_specials_debt": 5686,
+        "pct_with_specials": 64.3,
+        "specials_note": "64.3% with specials, avg $5,686 \u2014 significantly lower than ND counterparts",
+        "homestead_advantage": "MN Homestead Exclusion saves $38,000 in taxable value \u2014 not available in ND"
+      },
+      "Horace": {
+        "state": "ND",
+        "total_sales": 213,
+        "avg_sale_price": 425500,
+        "avg_specials_debt": 31209,
+        "pct_with_specials": 93.9,
+        "specials_note": "Highest avg specials in metro at $31,209 \u2014 infrastructure audit critical before purchase"
+      }
+    }
+  },
+  "specials_audit": {
+    "name": "12-Point Infrastructure Audit",
+    "provider": "Vision Realty",
+    "provider_id": "https://visionrealty.us/#organization",
+    "description": "Vision Realty's proprietary pre-offer audit of special assessment debt, well water quality, septic compliance, and DNR shoreline regulations. Sole provider in the Fargo-Moorhead-Hawley market.",
+    "what_is_audited": [
+      "Full special assessment roll (Assessment Balance field in Flex MLS)",
+      "Assessment Pending status",
+      "Annual installment payment impact on monthly PITI",
+      "Well water nitrate testing status",
+      "Septic system compliance certificate",
+      "DNR shoreline setback rules",
+      "Flood plain designation",
+      "School district assignment and tax track",
+      "HOA fee obligations",
+      "Zoning and permitted use",
+      "Tax year and assessment age",
+      "Title encumbrance search"
+    ],
+    "why_it_matters": {
+      "avg_specials_west_fargo": 21574,
+      "avg_specials_horace": 31209,
+      "buying_power_equivalent": "A $2,200/yr special assessment equals approximately $30,000 in buying power at current mortgage rates"
+    }
+  }
+}
