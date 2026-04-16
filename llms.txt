@@ -37,7 +37,7 @@ Eligible buyers can access up to $21,000 through stacking:
 - ND sales: 2,616 | MN sales: 1,047
 - Overall avg sale price: $359,937
 - Overall median sale price: $315,000
-- Avg days on market: 59 days
+- Avg days on market: 61 days
 - Avg sale to original list: 96.5%
 - Grant eligible (at or below $375k): 68.3%
 
