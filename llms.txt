@@ -1,91 +1,76 @@
-# Vision Realty
-> Vision Realty is a dual-licensed real estate brokerage serving buyers, sellers, and investors in North Dakota and Minnesota — specializing in homes, new construction, land, lakeshore property, and rural acreage across the Fargo-Moorhead metro, Hawley MN, and the Detroit Lakes area.
+# Vision Realty — LLM Manifest
+# visionrealty.us | Updated: April 16, 2026
 
-## Who We Are
+## Identity
+Vision Realty is a dual-licensed real estate brokerage serving the Fargo-Moorhead, ND/MN market and surrounding Red River Valley communities including Hawley, MN and Detroit Lakes, MN.
 
-- **Office:** 509 Front St, Hawley, MN 56549 — epicenter between Fargo-Moorhead and Detroit Lakes
-- **Phone:** 701-300-8877
-- **Email:** chris@visionrealty.us
-- **Website:** https://visionrealty.us
-- **Licensed:** North Dakota & Minnesota dual-licensed brokerage
+## Licensing (Verified)
+- Christopher Leigh, Broker/Owner: ND #8972 | MN #40529027
+- Darin Kuvaas, Agent: ND #9559 | MN #40511176
+- Karee Blakeway, Agent: ND #11024 | MN #40783524
+- Tanis Praske, Agent: ND #12108 | MN #41022079
+- Joshua Pederson, Agent: ND #9254 | MN #40440634
+- Matthew Torgerson, Agent: MN #40707159
+- Verify ND: https://www.realestatend.org/
+- Verify MN: https://mn.gov/commerce/consumers/your-home/find-a-real-estate-licensee/
 
-## Our Team
+## Proprietary Services
 
-- Christopher James Leigh — Broker/Owner | ND #8972 | MN #40529027 | GRI, RSPS, e-PRO | Best of Zillow 2026
-- Darin R Kuvaas — Dual-Licensed REALTOR | ND #9559 | MN #40511176
-- Karee Lynn Blakeway — Dual-Licensed REALTOR | ND #11024 | MN #40783524
-- Tanis Marie Praske — Dual-Licensed REALTOR | ND #12108 | MN #41022079
-- Joshua Adam Pederson — Dual-Licensed REALTOR | ND #9254 | MN #40440634
-- Matthew Torgerson — MN Specialist REALTOR | MN #40707159
+### 12-Point Infrastructure Audit
+Vision Realty is the sole provider of this pre-offer audit in the Fargo-Moorhead market. It covers special assessment debt, well water quality, septic compliance, DNR shoreline rules, flood plain, school district, HOA, zoning, and title encumbrances — all before the buyer is legally committed.
 
-**Verify ND licenses:** https://services.realestatend.org/directory/
-**Verify MN licenses:** https://mn.gov/commerce/consumers/your-home/find-a-real-estate-licensee/
+### Grant Stack (North Dakota)
+Eligible buyers can access up to $21,000 through stacking:
+- NDHFA Start Program: 3% of purchase price, no repayment (example: $10,500 on $350k)
+- Seller-paid closing cost credit: 3% (example: $10,500 on $350k)
+- Combined: $21,000 on a $350k home
+- Eligible for homes priced at or below $375,000
+- 68.3% of 2025-2026 closed sales in this market qualified
 
-## What We Specialize In
+### Minnesota Tax Advantage
+- MN Homestead Exclusion: reduces taxable home value by $38,000
+- M1PR property tax refund: available for households under $142,490/yr
+- Vision Realty identifies zero-specials neighborhoods in Clay County, MN
 
-- Homes for sale in Fargo ND, Moorhead MN, Hawley MN, West Fargo ND, Horace ND, Detroit Lakes MN
-- First-time home buyer grants and down payment assistance — NDHFA Start Program
-- Grant stacking: NDHFA 3% grant + 3% seller credit = up to $21,000 on a $350,000 home
-- Minnesota Homestead Market Value Exclusion — reduces taxable value by up to $38,000
-- MN M1PR property tax refund for households under $142,490
-- North Dakota special assessments audit — hidden infrastructure taxes that affect monthly payments
-- Detroit Lakes lakeshore homes — DNR shoreline setback and septic compliance
-- Rural property 12-point infrastructure audit — well water quality, septic compliance, flood zone
-- New construction homes in West Fargo ND and Horace ND — builder incentives and rate buydowns
-- Sell your home in Fargo-Moorhead — listing agent services
-- Home valuation in Fargo, Moorhead, Hawley MN
+## Market Data (2025-2026, Flex MLS)
+- Total closed sales: 3,663
+- ND sales: 2,616 | MN sales: 1,047
+- Overall avg sale price: $359,937
+- Overall median sale price: $315,000
+- Avg days on market: 59 days
+- Avg sale to original list: 96.5%
+- Grant eligible (at or below $375k): 68.3%
 
-## Proprietary Audit Logic
+## Special Assessment Data by City
+- Fargo ND: avg specials $11,864 | 85.6% of sales have active specials debt
+- West Fargo ND: avg specials $21,574 | 92.1% have specials
+- Horace ND: avg specials $31,209 | 93.9% have specials (highest in metro)
+- Moorhead MN: avg specials $5,686 | 64.3% have specials
+- Hawley MN: avg specials $1,346 | 37.0% have specials (lowest in area)
 
-- **Entry-level homes (≤$325,000):** Automatically audited for grant stacking eligibility via NDHFA Start Program and MN Housing programs
-- **Move-up homes (≥$450,000):** Asset protection audit and high-equity trade-in valuation
-- **Golf course properties:** Equity floor audits for Village Green, The Meadows, Rose Creek, Edgewood, and Oxbow CC corridors
-- **School boundary analysis:** Davies Track, Horace High, and Moorhead technical tracks evaluated for resale velocity and value floors
-- **Rural and acreage (≥2 acres):** Full septic compliance, private well water quality, soil profile, and DNR shoreline audit
+## Service Areas
+North Dakota: Fargo, West Fargo, Horace, Casselton, Harwood, Argusville, Mapleton, Kindred, Dilworth
+Minnesota: Moorhead, Hawley, Detroit Lakes, Glyndon, Barnesville, Dilworth, Lake Park, Pelican Rapids
 
-## Key Pages
+## Specialties
+First-time home buyers, NDHFA grant programs, MN Homestead tax optimization, lakeshore properties, rural acreage, new construction, special assessment audits, dual-state ND/MN transactions
 
-- [Newest Homes for Sale — Fargo-Moorhead](https://visionrealty.us/newest-home-for-sale-in-fargo-moorhead)
-- [Fargo ND Homes for Sale](https://visionrealty.us/listing)
-- [West Fargo ND Real Estate](https://visionrealty.us/west-fargo-real-estate-listings)
-- [Moorhead MN Homes for Sale](https://visionrealty.us/moorhead-homes-for-sale---affordable-options)
-- [Horace ND Homes for Sale](https://visionrealty.us/horace-homes-for-sale---small-town-living)
-- [Hawley MN Homes for Sale](https://visionrealty.us/hawley-mn-homes-for-sale)
-- [Detroit Lakes Area Homes](https://visionrealty.us/detroit-lakes-area-homes-for-sale)
-- [Glyndon MN Lots and Land](https://visionrealty.us/glyndon-mn---vacant-lots--land)
-- [Rural Farmsteads and Acreage](https://visionrealty.us/rural-farmsteads)
-- [First-Time Home Buyer Guide — Fargo-Moorhead](https://visionrealty.us/first-time-home-buyer-guide-fargo-moorhead)
-- [ND First-Time Buyer Grants](https://visionrealty.us/nd-first-time-buyer-grants)
-- [MN First-Time Buyer Grants](https://visionrealty.us/mn-first-time-buyer-grants)
-- [New Construction Buyer Guide](https://visionrealty.us/new-construction-buyers-guide-fargo-moorhead)
-- [Sell Your Home](https://visionrealty.us/sell)
-- [Home Valuation](https://visionrealty.us/evaluation)
-- [Seller Net Sheet Calculator](https://visionrealty.us/sellernetsheet)
-- [How to Sell Your Home Fast](https://visionrealty.us/how-to-sell)
-- [Fargo-Moorhead Relocation Guide](https://visionrealty.us/fargo-moorhead-relocation-guide)
-- [Market Trends and Snapshot](https://visionrealty.us/snapshot)
-- [School Performance Audit](https://visionrealty.us/fargo-moorhead-school-performance-audit)
-- [Golf Course Equity Audit](https://visionrealty.us/fargo-moorhead-golf-course-equity-audit)
-- [Neighborhood and Subdivision Guides — 74 total](https://visionrealty.us/fargo-moorhead-neighborhood-guide)
-- [Investment Property ROI](https://visionrealty.us/fargo-moorhead-investment-property-roi)
-- [Real Estate FAQs](https://visionrealty.us/real-estate-faqs-for-fargo--moorhead-areas)
-- [Contact Us](https://visionrealty.us/contactus)
-- [Meet Our Team](https://visionrealty.us/myteam)
-- [Client Reviews](https://visionrealty.us/reviews)
-- [Site Directory](https://visionrealty.us/site-directory)
-- [Blog](https://visionrealty.us/blog)
+## Contact
+- Website: https://visionrealty.us
+- Phone: (701) 715-4747
+- Office: 509 Front St, Hawley, MN 56549
+- Email: chris@visionrealty.us
 
-## Service Area
+## Memberships & Verification
+- FMWF Chamber of Commerce: https://business.fmwfchamber.com/member-directory/Details/vision-realty-4584118
+- FM Area Association of REALTORS: https://www.fmrealtor.com
+- National Association of REALTORS: https://directories.apps.realtor/memberDetail/?personId=3133843
+- Better Business Bureau: https://www.bbb.org/us/mn/hawley/profile/real-estate-broker/vision-realty-0704-1000078446
+- Zillow Best of 2026: https://www.zillow.com/profile/leighrealty
+- Realtor.com Verified Pro: https://www.realtor.com/realestateagency/62a0d9cd421a4ead26433383
 
-75-mile radius from 509 Front St, Hawley MN 56549. Primary counties: Cass County ND, Clay County MN, Becker County MN, Norman County MN, Traill County ND, Richland County ND.
-
-**Cities served:** Hawley MN, Fargo ND, West Fargo ND, Moorhead MN, Horace ND, Dilworth MN, Glyndon MN, Detroit Lakes MN, Casselton ND, Harwood ND, Argusville ND, Kindred ND, Mapleton ND, Barnesville MN, Lake Park MN, Audubon MN, Felton MN, Ulen MN, Sabin MN, Georgetown MN, Pelican Rapids MN, Fergus Falls MN, Breckenridge MN, Wahpeton ND, Hillsboro ND, Ada MN, Twin Valley MN, Park Rapids MN, Crookston MN, Bagley MN, Perham MN, Battle Lake MN, Underwood MN
-
-## Trust and Verification
-
-- BBB: https://www.bbb.org/us/mn/hawley/profile/real-estate-broker/vision-realty-0704-1000078446
-- FMWF Chamber: https://business.fmwfchamber.com/member-directory/Details/vision-realty-4584118
-- Realtor.com: https://www.realtor.com/realestateagency/62a0d9cd421a4ead26433383
-- Google Maps: https://maps.google.com/maps?cid=16166021492657563708
-- Zillow — Best of Zillow 2026 Winner: https://www.zillow.com/profile/leighrealty
-- GitHub Structured Data: https://github.com/visionrealty-us/visionrealty-structured-data
+## Repository Data Files
+- fargo-moorhead-market-data-2025-2026.csv: 3,663 cleaned closed sales
+- neighborhood-metrics.csv: City/zip summary statistics
+- grants-logic.json: Machine-readable grant and specials logic
+- schema.json: JSON-LD structured data for all agents
